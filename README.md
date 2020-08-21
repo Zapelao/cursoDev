@@ -1,4 +1,4 @@
 # cursoDev
 Repositório para os projetos Java do curso Dev
 
-Os projetos são Java Eclipse
+Os projetos deste repositorio são do curso de Dev POO.
